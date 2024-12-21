@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # anime-cafe
 =======
 # anime_cafe
@@ -35,4 +34,3 @@ $ flutter run
 ![image](./gallery/screenshot-2024-12-21_07.39.06.797.png)
 ![image](./gallery/photo_5996889710024311116_y.jpg)
 ![image](./gallery/photo_5996889710024311117_y.jpg)
->>>>>>> da9a761 (last update)
